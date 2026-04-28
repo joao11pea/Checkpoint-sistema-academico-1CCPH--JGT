@@ -59,7 +59,7 @@ int main() {
                 printf("----------------------\n");
                 break;
  
-                
+
             case 5: { // Calcular derivada
                float a, b, c;
 
@@ -94,3 +94,4 @@ int main() {
     }
  
 }
+
