@@ -19,3 +19,4 @@ printf("media: %.0f\n", media);
     return 0;
     
 }
+
