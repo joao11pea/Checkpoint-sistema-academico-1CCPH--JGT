@@ -71,6 +71,11 @@ int main() {
                 scanf("%f", &b);
                 printf("Digite o coeficiente c:");
                 scanf("%f", &c);
+
+                float deriv_a = 2 * a;
+                float deriv_b = b;
+                printf("\nFuncao: f'(x) = %.0fx + %.0f\n", deriv_a, deriv_b);
+
  
                 break;
             }
