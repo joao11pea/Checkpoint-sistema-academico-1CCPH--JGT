@@ -20,3 +20,5 @@ printf("media: %.0f\n", media);
     
 }
 
+
+
