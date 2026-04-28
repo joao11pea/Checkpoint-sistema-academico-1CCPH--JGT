@@ -61,23 +61,9 @@ int main() {
  
  
             case 5: { // Calcular derivada
-                printf("Digite o valor de a: ");
-                scanf("%f", &a);
- 
- 
-                printf("Digite o valor de b: ");
-                scanf("%f", &b);
- 
- 
-                printf("Digite o valor de c: ");
-                scanf("%f", &c);
- 
- 
-                float X = 2 * a;
- 
- 
-                printf("Derivada da funcao:\n");
-                printf("f'(x) = %.2fx + %.2f\n", X, b);
+               float a, b, c;
+
+            printf("Calculo da derivada [f(x) = ax^ + bx + c]\n");
  
  
                 break;
