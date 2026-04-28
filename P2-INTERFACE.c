@@ -63,8 +63,14 @@ int main() {
             case 5: { // Calcular derivada
                float a, b, c;
 
-            printf("Calculo da derivada [f(x) = ax^ + bx + c]\n");
- 
+             printf("Calculo da derivada [f(x) = ax^ + bx + c]\n");
+
+                printf("Digite o coeficiente a:");
+                scanf("%f", &a);
+                printf("Digite o coeficiente b:");
+                scanf("%f", &b);
+                printf("Digite o coeficiente c:");
+                scanf("%f", &c);
  
                 break;
             }
