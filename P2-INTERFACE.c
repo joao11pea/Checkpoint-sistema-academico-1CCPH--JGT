@@ -8,7 +8,7 @@ int main() {
  
     while (1) {
         printf("\n==============================\n");
-        printf(" SISTEMA EQUIPE XYZ\n");
+        printf(" SISTEMA EQUIPE JGT\n");
         printf("==============================\n");
         printf("1 - Inserir notas\n");
         printf("2 - Calcular media\n");
